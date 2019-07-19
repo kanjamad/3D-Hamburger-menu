@@ -17,4 +17,27 @@
 
 ```
 
-* Class line line-1 : first for common style, second for individual styling 
+```
+.hamburger-menu {
+    width: 35px;
+    height: 30px;
+    position: fixed;
+    top: 40px;
+    right: 50px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.line {
+    width: inherit;
+    height: 5px;
+    background-color: #16c3cf;
+}
+
+```
+
+* Class line  line-1 : first for common style, second for individual styling 
+* Inherit : we need width equal to their parent elements width = 35px, So instead of defining it manually I can use value called inherit.
+* Create space between line used flexbox
