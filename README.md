@@ -41,3 +41,14 @@
 * Class line  line-1 : first for common style, second for individual styling 
 * Inherit : we need width equal to their parent elements width = 35px, So instead of defining it manually I can use value called inherit.
 * Create space between line used flexbox
+
+
+### Perspective
+* The perspective CSS property gives an element a 3D-space by affecting the distance between the Z plane and the user.
+
+
+
+
+## Additional Resources
+
+1. <a href="https://css-tricks.com/almanac/properties/p/perspective/" target="_blank">Perspective animation</a>
